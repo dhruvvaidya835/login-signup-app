@@ -4,7 +4,7 @@ const mongoose = require('mongoose');
 const path = require('path');
 
 // Import the User model
-const User = require('./models/user');
+const User = require('./models/User');
 
 const app = express();
 
